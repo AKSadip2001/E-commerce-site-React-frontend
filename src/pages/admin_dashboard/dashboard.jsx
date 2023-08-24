@@ -27,12 +27,12 @@ function Dashboard() {
                             <span className="info">Products: 3</span>
                         </button>
                     
-                        <button type="button" className="btn-dashboard bg-blue px-4 py-3 mx-5 rounded">
+                        <button type="button" className="btn-dashboard bg-blue-500 px-4 py-3 mx-5 rounded">
                             <Link className="flex flex-col"><i className="bi bi-view-list text-white text-3xl"></i></Link>
                             <span className="info">Pending Orders: 2</span>
                         </button>
                     
-                        <button type="button" className="btn-dashboard bg-red px-4 py-3 mx-5 rounded">
+                        <button type="button" className="btn-dashboard bg-red-500 px-4 py-3 mx-5 rounded">
                             <Link className="flex flex-col"><i className="bi bi-envelope-open text-white text-3xl"></i></Link>
                             <span className="info">Feedbacks: 5</span>
                         </button>
