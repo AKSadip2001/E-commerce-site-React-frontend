@@ -1,0 +1,37 @@
+.sidebar {
+    background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);
+    color: #ffffff;
+    width: 250px;
+}
+
+@media screen and (max-width: 767px) {
+    .sidebar {
+        width: 60px;
+    }
+}
+
+/* Side navbar styles */
+.navbar-brand:hover {
+    color: #87B76f;
+}
+
+.nav-pills .nav-link.active {
+    border-radius: 5px;
+    background-color: #FBC2A3;
+    color: #000000;
+}
+
+.nav-item{
+    margin: 15px;
+    
+}
+
+.nav-item .nav-link {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.nav-item .nav-link:hover {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}

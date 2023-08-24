@@ -1,0 +1,26 @@
+.btn-dashboard {
+    box-shadow: 10px 10px 20px 0px #aeaeae;
+    width: 13rem;
+}
+
+.btn-dashboard:hover {
+    background-color: #fc8240;
+}
+
+/* utilities */
+.bg-red {
+    background-color: #f57375;
+}
+
+.bg-green {
+    background-color: #90be79;
+}
+
+.bg-blue {
+    background-color: #8ddfdc;
+}
+
+.info {
+    color: white;
+    font-weight: bold;
+}
